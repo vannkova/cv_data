@@ -1,0 +1,50 @@
+{
+  "name": "Alexei P.",
+  "current_role": "Backend Python Developer",
+  "video_interview": "https://drive.google.com/file/d/1mJeC9gM_HATaNUaNwM7zPtygnl-t77xv/view",
+  "common_description_1": "6 years of experience in Python backend development",
+  "common_description_2": "Proficient with Django, FastAPI, PostgreSQL, and Redis",
+  "common_description_3": "Experience in cloud infrastructure with AWS and GCP",
+  "common_description_4": "Team player and fast learner",
+  "common_description_5": "Focused on performance and scalability",
+  "common_description_6": "English - Intermediate",
+  "skills_qualifications": [
+    {
+      "title": "Programming Languages",
+      "description": "Python, Bash, JavaScript"
+    },
+    {
+      "title": "Backend",
+      "description": "Django, FastAPI, PostgreSQL, Celery, Redis"
+    }
+  ],
+  "education": {
+    "name": "Belarusian State University",
+    "years": "2012 - 2016",
+    "specialization": "Software Engineering"
+  },
+  "languages": [
+    {
+      "title": "English",
+      "level": "Intermediate"
+    },
+    {
+      "title": "Belarusian",
+      "level": "Native"
+    },
+    {
+      "title": "Russian",
+      "level": "Fluent"
+    }
+  ],
+  "experience": [
+    {
+      "company": "DataFlow Inc (Mar 2021 - Present)",
+      "position": "Backend Python Developer"
+    },
+    {
+      "company": "NextSoft (Apr 2018 - Feb 2021)",
+      "position": "Software Engineer"
+    }
+  ]
+}

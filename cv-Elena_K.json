@@ -1,0 +1,54 @@
+{
+  "name": "Elena K.",
+  "current_role": "Full-Stack JavaScript Developer",
+  "video_interview": "https://drive.google.com/file/d/1mJeC9gM_HATaNUaNwM7zPtygnl-t77xv/view",
+  "common_description_1": "8 years of experience in full-stack development",
+  "common_description_2": "Strong expertise in React, Node.js, MongoDB, GraphQL",
+  "common_description_3": "Led multiple agile teams",
+  "common_description_4": "Detail-oriented and highly communicative",
+  "common_description_5": "Passionate about clean code and architecture",
+  "common_description_6": "English - Advanced",
+  "skills_qualifications": [
+    {
+      "title": "Programming Languages",
+      "description": "JavaScript, TypeScript"
+    },
+    {
+      "title": "Frontend",
+      "description": "React, Next.js, Redux"
+    },
+    {
+      "title": "Backend",
+      "description": "Node.js, Express, GraphQL, MongoDB"
+    }
+  ],
+  "education": {
+    "name": "Vilnius Tech University",
+    "years": "2010 - 2014",
+    "specialization": "Computer Science"
+  },
+  "languages": [
+    {
+      "title": "English",
+      "level": "Advanced"
+    },
+    {
+      "title": "Lithuanian",
+      "level": "Native"
+    },
+    {
+      "title": "Russian",
+      "level": "Intermediate"
+    }
+  ],
+  "experience": [
+    {
+      "company": "TechNest (Jan 2022 - Present)",
+      "position": "Senior JavaScript Developer"
+    },
+    {
+      "company": "SoftCreate (Aug 2017 - Dec 2021)",
+      "position": "Full-Stack Developer"
+    }
+  ]
+}
