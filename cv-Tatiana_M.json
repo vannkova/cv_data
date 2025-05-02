@@ -8,33 +8,51 @@
   "common_description_4": "Calm under pressure and security-focused",
   "common_description_5": "Initiates process improvements",
   "common_description_6": "English - Upper-Intermediate",
-  "skills_qualifications": [
+   "key_technologies": [
     {
-      "title": "Cloud Platforms",
-      "description": "AWS, Azure, GCP"
+      "title": "Javascript",
+      "description": "5 years"
     },
     {
-      "title": "DevOps Tools",
-      "description": "Docker, Kubernetes, Helm, Jenkins, GitLab CI, Terraform"
+      "title": "HTML",
+      "description": "5 years"
+    },
+    {
+      "title": "CSS",
+      "description": "5 years"
+    }
+  ],
+  "skills_qualifications": [
+    {
+      "title": "Programming Languages",
+      "description": "JavaScript, TypeScript"
+    },
+    {
+      "title": "Frontend",
+      "description": "React, Next.js, Redux"
+    },
+    {
+      "title": "Backend",
+      "description": "Node.js, Express, GraphQL, MongoDB"
     }
   ],
   "education": {
-    "name": "KPI – National Technical University of Ukraine",
-    "years": "2011 - 2015",
-    "specialization": "Information Security"
+    "name": "Vilnius Tech University",
+    "years": "2010 - 2014",
+    "specialization": "Computer Science"
   },
   "languages": [
     {
       "title": "English",
-      "level": "Upper-Intermediate"
+      "level": "Advanced"
     },
     {
-      "title": "Ukrainian",
+      "title": "Lithuanian",
       "level": "Native"
     },
     {
       "title": "Russian",
-      "level": "Fluent"
+      "level": "Intermediate"
     }
   ],
    "projects": [
@@ -45,8 +63,8 @@
         {
           "title": "Project name",
           "description": "NDA"
-        },
-        {
+        },  
+         {
           "title": "Overview",
           "description": "Worked at Quorum and held the position of Team Lead. Project types:\n• Public affairs software.\n• Various projects in Ruby and Python.\n"
         },
@@ -247,12 +265,12 @@
   ],
   "experience": [
     {
-      "company": "CloudOps Solutions (Feb 2022 - Present)",
-      "position": "DevOps Engineer"
+      "company": "TechNest (Jan 2022 - Present)",
+      "position": "Senior JavaScript Developer"
     },
     {
-      "company": "NetGroup (Sep 2017 - Jan 2022)",
-      "position": "Infrastructure Engineer"
+      "company": "SoftCreate (Aug 2017 - Dec 2021)",
+      "position": "Full-Stack Developer"
     }
   ]
 }
