@@ -8,6 +8,20 @@
   "common_description_4": "Detail-oriented and highly communicative",
   "common_description_5": "Passionate about clean code and architecture",
   "common_description_6": "English - Advanced",
+  "key_technolgies": [
+    {
+      "title": "Javascript",
+      "description": "5 years"
+    },
+    {
+      "title": "HTML",
+      "description": "5 years"
+    },
+    {
+      "title": "CSS",
+      "description": "5 years"
+    }
+  ],
   "skills_qualifications": [
     {
       "title": "Programming Languages",
