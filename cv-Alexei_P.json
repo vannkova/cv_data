@@ -8,6 +8,20 @@
   "common_description_4": "Team player and fast learner",
   "common_description_5": "Focused on performance and scalability",
   "common_description_6": "English - Intermediate",
+  "key_technologies": [
+    {
+      "title": "Javascript",
+      "description": "5 years"
+    },
+    {
+      "title": "HTML",
+      "description": "5 years"
+    },
+    {
+      "title": "CSS",
+      "description": "5 years"
+    }
+  ],
   "skills_qualifications": [
     {
       "title": "Programming Languages",
@@ -18,11 +32,18 @@
       "description": "Django, FastAPI, PostgreSQL, Celery, Redis"
     }
   ],
-  "education": {
+  "education": [
+    {
+    "name": Some University",
+    "years": "2018 - 2024",
+    "specialization": "Software Engineering"
+    },
+    {
     "name": "Belarusian State University",
     "years": "2012 - 2016",
     "specialization": "Software Engineering"
-  },
+    }    
+  ],
   "languages": [
     {
       "title": "English",
