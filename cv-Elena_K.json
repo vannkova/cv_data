@@ -41,6 +41,214 @@
       "level": "Intermediate"
     }
   ],
+   "projects": [
+    {
+      "id": "project_1",
+      "title": "PROJECT 1",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Worked at Quorum and held the position of Team Lead. Project types:\n• Public affairs software.\n• Various projects in Ruby and Python.\n"
+        },
+        {
+          "title": "Technologies",
+          "description": "RoR 4, sidekiq, Django, Flask, FastApi, Airflow, Postgres, ElasticSearch 5,6,7, Rmq, Redis, ReactJS, node scripts, Docker, AWS, Kubernetis"
+        },
+        {
+          "title": "Role",
+          "description": "Lead Software Engineer"
+        },
+        {
+          "title": "Common tasks",
+          "description": "Responsibilities as a Team Lead:\n• Setting team goals, defining product requirements & ensuring goals and KPIs are met.\n• Creating tasks, setting prioritization, maintaining executions, leading sprint plannings and 1:1 with team members.\n• Participate in candidates selections and interviews.\n• Introducing and ramping new members.\n• Collaborating with DevOPS, managers, engineers, designers, cs managers.\nResponsibilities as a Developer:\n• Develop new features and support old infrastructure.\n• Deployments and releases.\n• Improve system performance, response time, pg queries, different ElasticSearch optimizations.\n• Reduced costs of rds, ec2,es, rmq, instances AWS."
+        },
+        {
+          "title": "Duration",
+          "description": "3 years 1 month"
+        }
+      ]
+    },
+    {
+      "id": "project_2",
+      "title": "PROJECT 2",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Project type - Public affairs software."
+        },
+        {
+          "title": "Technologies",
+          "description": "RoR 4, sidekiq, Flask, Airflow, Postgres, ElasticSearch 5, Rmq, Redis, ReactJS, Docker, AWS, Kubernetes"
+        },
+        {
+          "title": "Role",
+          "description": "Software Developer"
+        },
+        {
+          "title": "Common tasks",
+          "description": "• Develop new features and support old infrastructure.\n• Perform duties, deployments and releases.\n• Fix bugs."
+        },
+        {
+          "title": "Duration",
+          "description": "1 year 6 months"
+        }
+      ]
+    },
+    {
+      "id": "project_3",
+      "title": "PROJECT 3",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Worked at Endava. Project types:\n• Currency exchange.\n• Crypto trading platform."
+        },
+        {
+          "title": "Technologies",
+          "description": "Ruby, RoR, microservices, Postgres, React JS, Golang, Docker, AWS, Heroku, etc."
+        },
+        {
+          "title": "Role",
+          "description": "Ruby on Rails Developer"
+        },
+        {
+          "title": "Common tasks",
+          "description": "• Develop, test, deploy code.\n• Communicate with customer.\n• Payment integration."
+        },
+        {
+          "title": "Duration",
+          "description": "1 year 10 months"
+        }
+      ]
+    },
+    {
+      "id": "project_4",
+      "title": "PROJECT 4",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Worked at FusionWorks. Developed a CRM system."
+        },
+        {
+          "title": "Technologies",
+          "description": "Ruby, RoR, Postgres, Sidekiq, Docker, AWS, etc."
+        },
+        {
+          "title": "Role",
+          "description": "Web Developer"
+        },
+        {
+          "title": "Common tasks",
+          "description": "• Develop, test, deploy code.\n• Setup deployment process.\n• Automation of manual processes.\n• Handling communication with the customer.\n• Defining goals and ensuring those are met."
+        },
+        {
+          "title": "Duration",
+          "description": "9 months"
+        }
+      ]
+    },
+    {
+      "id": "project_5",
+      "title": "PROJECT 5",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Worked at Saltedge. Project types:\n• CRM system.\n• Data aggregations.\n• Web scraping."
+        },
+        {
+          "title": "Technologies",
+          "description": "Ruby, RoR, Postgres, Docker, AWS, etc."
+        },
+        {
+          "title": "Role",
+          "description": "Ruby/RoR Developer"
+        },
+        {
+          "title": "Common tasks",
+          "description": "• Develop, test, deploy code.\n• Integrate and maintain API.\n• Bug fixing on a daily base.\n• Train new staff.\n• Mentoring on hackathons."
+        },
+        {
+          "title": "Duration",
+          "description": "1 year 1 month"
+        }
+      ]
+    },
+    {
+      "id": "project_6",
+      "title": "PROJECT 6",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Worked at FusionWorks. Project types:\n• Data aggregations.\n• Web scraping."
+        },
+        {
+          "title": "Technologies",
+          "description": "Ruby"
+        },
+        {
+          "title": "Role",
+          "description": "Ruby Developer"
+        },
+        {
+          "title": "Common tasks",
+          "description": "• Develop, test code.\n• Bug fixing on a daily base."
+        },
+        {
+          "title": "Duration",
+          "description": "1 year 6 months"
+        }
+      ]
+    },
+    {
+      "id": "project_7",
+      "title": "PROJECT 7",
+      "rows": [
+        {
+          "title": "Project name",
+          "description": "NDA"
+        },
+        {
+          "title": "Overview",
+          "description": "Worked at Starnet."
+        },
+        {
+          "title": "Role",
+          "description": "Engineer (IT communications)"
+        },
+        {
+          "title": "Common tasks",
+          "description": "• Network installment.\n• Setup network equipment.\n• Work with business clients."
+        },
+        {
+          "title": "Duration",
+          "description": "About 1 year"
+        }
+      ]
+    }
+  ],
   "experience": [
     {
       "company": "TechNest (Jan 2022 - Present)",
