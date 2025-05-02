@@ -63,15 +63,7 @@
         {
           "title": "Project name",
           "description": "NDA"
-        },
-        {
-          "title": "Overview",
-          "description": "Worked at Quorum and held the position of Team Lead. Project types:\n• Public affairs software.\n• Various projects in Ruby and Python.\n"
-        },
-        {
-          "title": "Technologies",
-          "description": "RoR 4, sidekiq, Django, Flask, FastApi, Airflow, Postgres, ElasticSearch 5,6,7, Rmq, Redis, ReactJS, node scripts, Docker, AWS, Kubernetis"
-        },
+        },       
         {
           "title": "Role",
           "description": "Lead Software Engineer"
