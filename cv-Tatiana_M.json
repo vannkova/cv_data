@@ -1,6 +1,7 @@
 {
   "name": "Tatiana M.",
-  "current_role": "DevOps Engineer",
+  "current_role": "DevOps Engineer",  
+  "video_interview": "https://drive.google.com/file/d/1mJeC9gM_HATaNUaNwM7zPtygnl-t77xv/view", 
   "common_description_1": "7 years of experience in infrastructure and automation",
   "common_description_2": "Expert in CI/CD, Docker, Kubernetes, and Terraform",
   "common_description_3": "Led cloud migration projects for enterprise clients",
